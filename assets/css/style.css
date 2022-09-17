@@ -2115,6 +2115,17 @@ section {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
+  
+}
+#footer .copyright a {
+  text-align: center;
+  padding-top: 30px;
+  color: #fff;
+  
+}
+#footer .copyright a:hover {
+ color: #000;
+  
 }
 
 #footer .credits {
